@@ -15,5 +15,5 @@
 </div>
 
 <div>
-  <a href="https://github.com/liujunliuhong/SinaWeiboOpenSDK" target="_blank">新浪微博官方SDK pod封装，支持Swift module</a>
+  <a href="https://github.com/liujunliuhong/SinaWeiboOpenSDK">新浪微博官方SDK pod封装，支持Swift module</a>
 </div>
