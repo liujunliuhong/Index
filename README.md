@@ -7,9 +7,13 @@
 </div>
 
 <div>
-  <a href="https://github.com/liujunliuhong/WechatOpenSDK">微信官方SDK pod封装</a>
+  <a href="https://github.com/liujunliuhong/WechatOpenSDK">微信官方SDK pod封装，支持Swift module</a>
 </div>
 
 <div>
-  <a href="https://github.com/liujunliuhong/TencentOpenSDK">QQ互联官方SDK pod封装</a>
+  <a href="https://github.com/liujunliuhong/TencentOpenSDK">QQ互联官方SDK pod封装，支持Swift module</a>
+</div>
+
+<div>
+  <a href="https://github.com/liujunliuhong/SinaWeiboOpenSDK">新浪微博官方SDK pod封装，支持Swift module</a>
 </div>
