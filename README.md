@@ -25,7 +25,7 @@
 
 
 <div>
-微信SDK、QQ SDK、新浪微博SDK基础功能的封装，支持OC和Swift
+微信SDK、QQ SDK、新浪微博SDK、支付宝SDK基础功能的封装，支持OC和Swift
 <!--   <a href="https://github.com/liujunliuhong/SinaWeiboOpenSDK">微信SDK、QQ SDK、新浪微博SDK基础功能的封装，支持OC和Swift</a> -->
 </div>
 
