@@ -19,8 +19,7 @@
 </div>
 
 <div>
-支付宝官方支付SDK pod封装，支持Swift module（支付和分享不是同一个SDK）
-<!--   <a href="https://github.com/liujunliuhong/SinaWeiboOpenSDK">微信SDK、QQ SDK、新浪微博SDK基础功能的封装，支持OC和Swift</a> -->
+  <a href="https://github.com/liujunliuhong/AlipayOpenSDK">支付宝官方支付SDK pod封装，支持Swift module（支付和分享不是同一个SDK）</a>
 </div>
 
 
